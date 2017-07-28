@@ -1,0 +1,16 @@
+hash: 15a1f9018870d61fa63c566f0126570c0a1361dcea2c08f5255bc6141d6ba55a
+updated: 2017-07-28T21:28:50.886080428+01:00
+imports:
+- name: golang.org/x/net
+  version: 5f8847ae0d0e90b6a9dc8148e7ad616874625171
+  subpackages:
+  - context
+  - context/ctxhttp
+- name: google.golang.org/api
+  version: 629ff0da413865688533e3d3cad3c54966efcb73
+  subpackages:
+  - gensupport
+  - googleapi
+  - googleapi/internal/uritemplates
+  - qpxexpress/v1
+testImports: []
